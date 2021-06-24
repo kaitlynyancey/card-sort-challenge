@@ -1,0 +1,15 @@
+{
+  "name": "card-sort-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cardsort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "KEY",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
